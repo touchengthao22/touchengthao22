@@ -1,6 +1,9 @@
-# 💫 Thanks for dropping by, my name Tou
-🌱 I’m currently learning microservice architecture and open source contribution<br>👯 I’m looking to collaborate on backend development projects and data-driven applications.<br>🤝 I enjoy learning and always looking for ways on how to improve my backend skills.<br>
+# 💫 Thanks for dropping by!
 
+### 👋Hi there! I'm Tou — a computer science major changer with a background in construction management and 3D modeling. After realizing how much I enjoy creating tools to make every day task more efficient, I decided to pursue a post-baccalaureate in computer science. 
+### 📊 My passion lies in working with data and backend development — designing systems, building databases, and manipulating data to solve real-world problems. 
+### When I’m not coding, you might find me on a 🌊cruise with my wife, enjoying the open sea. 
+### I’m always excited to learn, collaborate, and create something impactful. Let’s connect!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tou-thao ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tcthao22@gmail.com) 
