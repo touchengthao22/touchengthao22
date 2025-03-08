@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Thanks for dropping by, my name Tou
 🌱 I’m currently learning microservice architecture and open source contribuyion<br>👯 I’m looking to collaborate on backend development projects and data-driven applications.<br>🤝 I enjoy learning and always looking for ways on how to improve my backend skills.<br>
 
 
